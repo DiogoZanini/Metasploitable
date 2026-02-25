@@ -14,3 +14,13 @@ Máquinas virtuais intencionalmente vulneráveis para prática de testes de pene
   - **Observação:** Essas credenciais são intencionalmente fracas para fins de treinamento.
 
 </details>
+
+<details>
+  <summary>Configuração de Rede</summary>
+
+  Na configuração de rede da Máquina Virtual, adicione uma Placa de Interface de Rede (NIC):
+  1. **Adaptador 1** — LAN (Rede Interna - homelab).
+
+  > 💡 **Observação:** Esta máquina intencionalmente vulnerável nunca deve ser exposta a uma rede não confiável.
+
+</details>
