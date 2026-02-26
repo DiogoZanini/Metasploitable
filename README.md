@@ -11,7 +11,7 @@ Intentionally vulnerable VMs for penetration testing practice and security train
 
   - **Username:** msfadmin
   - **Password:** msfadmin
-  - **Note:** These credentials are intentionally weak for training purposes.
+  > 💡**Note:** These credentials are intentionally weak for training purposes.
 
 </details>
 

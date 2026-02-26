@@ -11,7 +11,7 @@ Máquinas virtuais intencionalmente vulneráveis para prática de testes de pene
 
   - **Usuário:** msfadmin
   - **Senha:** msfadmin
-  - **Observação:** Essas credenciais são intencionalmente fracas para fins de treinamento.
+  > 💡**Observação:** Essas credenciais são intencionalmente fracas para fins de treinamento.
 
 </details>
 
@@ -21,6 +21,6 @@ Máquinas virtuais intencionalmente vulneráveis para prática de testes de pene
   Na configuração de rede da Máquina Virtual, adicione uma Placa de Interface de Rede (NIC):
   1. **Adaptador 1** — LAN (Rede Interna - homelab).
 
-  > 💡 **Observação:** Esta máquina intencionalmente vulnerável nunca deve ser exposta a uma rede não confiável.
+  > 💡**Observação:** Esta máquina intencionalmente vulnerável nunca deve ser exposta a uma rede não confiável.
 
 </details>
