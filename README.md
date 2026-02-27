@@ -38,8 +38,8 @@ Intentionally vulnerable VMs for penetration testing practice and security train
 <details>
   <summary>Network Configuration</summary>
 
-  In the Virtual Machine network configuration, attach one Network Interface Card (NIC):
+  In each Virtual Machine network configuration, attach one Network Interface Card (NIC):
   1. **Adapter 1** — LAN (Internal Network - homelab).
 
-  > 💡**Note:** This intentionally vulnerable machine should never be exposed to an untrusted network.
+  > 💡**Note:** These intentionally vulnerable machines should never be exposed to an untrusted network.
 </details>
