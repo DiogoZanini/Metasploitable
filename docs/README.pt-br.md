@@ -3,6 +3,8 @@ Máquinas virtuais intencionalmente vulneráveis para prática de testes de pene
 
 [**EN-US**](../README.md)
 
+![Metasploitable](./metasploitable.png)
+
 ## 📦 Dependências
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Plataforma de virtualização;
 - **Metasploitable 1** — Não está mais oficialmente disponível; requer busca em espelhos arquivados ou backups existentes.

@@ -3,6 +3,8 @@ Intentionally vulnerable VMs for penetration testing practice and security train
 
 [**PT-BR**](./docs/README.pt-br.md)
 
+![Metasploitable](./docs/metasploitable.png)
+
 ## 📦 Dependencies
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Virtualization platform;
 - **Metasploitable 1** — No longer officially available; requires sourcing from archived mirrors or existing backups.
