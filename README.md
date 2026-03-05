@@ -9,6 +9,7 @@ Intentionally vulnerable VMs for penetration testing practice and security train
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Virtualization platform;
 - **Metasploitable 1** — No longer officially available; requires sourcing from archived mirrors or existing backups.
 - [Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - Official download from SourceForge.
+- [Metasploitable 3](https://github.com/rapid7/metasploitable3) — Official repository on GitHub (requires build with Vagrant/Packer).
 
 ## 📋 Available Versions
 <details>

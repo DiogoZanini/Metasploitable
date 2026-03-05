@@ -9,6 +9,7 @@ Máquinas virtuais intencionalmente vulneráveis para prática de testes de pene
 - [Oracle VirtualBox](https://www.virtualbox.org/) — Plataforma de virtualização;
 - **Metasploitable 1** — Não está mais oficialmente disponível; requer busca em espelhos arquivados ou backups existentes.
 - [Metasploitable 2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) — Download oficial do SourceForge.
+- [Metasploitable 3](https://github.com/rapid7/metasploitable3) — Repositório oficial no GitHub (requer build com Vagrant/Packer).
 
 ## 📋 Versões Disponíveis
 <details>
